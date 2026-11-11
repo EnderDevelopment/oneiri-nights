@@ -1,0 +1,5 @@
+name: DreamWorld
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Sends sleeping players into a dream world chased by white entities.
